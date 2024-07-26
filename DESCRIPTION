@@ -51,8 +51,7 @@ Remotes:
  Displayr/rhtmlHeatmap,
  Displayr/survey,
  Displayr/verbs,
-LinkingTo: Rcpp (>= 0.12.15),
- RcppEigen (<= 0.3.3.9.4)
+LinkingTo: Rcpp (>= 0.12.15)
 VignetteBuilder: knitr
 RoxygenNote: 7.3.2
 Encoding: UTF-8
